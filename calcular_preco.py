@@ -4,12 +4,6 @@ valorBebida = float(input("Valor goró: "))
 quantidadeBebida = int(input("quant goró: "))
 valorPago = float(input("valor pago: "))
 
-//TODO: Calcular o preço final do pedido (total dos hambúrgueres + total das bebidas).
-
-//TODO: Calcular o troco do pedido, considerando o preço final e o valor pago pelo usuário.
-
-//TODO: Imprimir a saída no formato especificado neste desafio.
-
 hamburguerTotal = valorHamburguer * quantidadeHamburguer
 bebidaTotal = valorBebida * quantidadeBebida
 valorTotal = hamburguerTotal + bebidaTotal
